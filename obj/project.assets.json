@@ -14,17 +14,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/igenius/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/igenius/Documents/workspace/C#/RazorPagesMovie/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/igenius/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/Users/igenius/Documents/workspace/C#/RazorPagesMovie/RazorPagesMovie.csproj",
       "packagesPath": "/Users/igenius/.nuget/packages/",
-      "outputPath": "/Users/igenius/RazorPagesMovie/obj/",
+      "outputPath": "/Users/igenius/Documents/workspace/C#/RazorPagesMovie/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/igenius/.nuget/NuGet/NuGet.Config"
+        "/Users/igenius/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
